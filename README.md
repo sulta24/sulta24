@@ -6,9 +6,6 @@
 
 ---
 
-- 🔭 I’m currently developing:  
-  **An AI-powered LMS** — a platform where anyone can launch and manage online courses with tests, certifications, and monetization.
-
 - 🧠 I’m learning and using:  
   **Keras, TensorFlow, PyTorch, Scikit-learn, Flask, SQL, Git**
 

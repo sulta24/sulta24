@@ -62,6 +62,6 @@
 
 ## 📌 Profiles
 
-- 🧠 [Kaggle](https://kaggle.com/sulta24)  
+- 🧠 [Kaggle]([https://kaggle.com/sulta24](https://www.kaggle.com/sula123))  
 - 💻 [Codeforces](https://codeforces.com/profile/sssss4242)  
 - 💻 [Codepen](https://codepen.io/@sula32524)  

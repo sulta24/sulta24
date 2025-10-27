@@ -8,69 +8,72 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Software%20Developer;Always%20building%20new%20things;Focused%20on%20ML%20and%20Video%20AI;Let’s%20create%20something%20impactful!%20🚀&font=Fira%20Code&center=true&width=480&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Developer;Building%20AI%20Agents%20and%20Systems;DevOps%20Automation%20with%20AI;Always%20experimenting%20and%20learning%20🚀&font=Fira%20Code&center=true&width=520&height=45"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SultanKarilov" align="center"><img align="center" alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=SultanKarilov.SultanKarilov"></a>
+  <a href="https://github.com/sulta24" align="center"><img align="center" alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=sulta24.sulta24"></a>
 </p>
 
 ---
 
-- 👨‍💻 AI & Software Engineer passionate about building **intelligent systems** and real-world products.  
-- 🧠 Currently working on **AI video editing systems**, **agent architectures**, and **FastAPI + React apps**.  
-- 🎯 Focused on combining deep learning, system design, and creativity to craft practical solutions.  
-- 🌱 Exploring **multimodal AI**, **LLM-based agents**, and **cloud deployment** (Azure & GCP).  
+- 🧠 AI Engineer & DevOps enthusiast building **intelligent systems that manage infrastructure automatically**.  
+- ⚙️ Currently working at **BachOpus**, creating a **DevOps AI agent** that integrates with monitoring tools like Datadog and manages multi-agent workflows.  
+- 🎯 Interested in **LLM-based agents**, **autonomous system orchestration**, and **scalable cloud AI deployments**.  
+- 🌱 Deepening expertise in **LangChain**, **LlamaIndex**, **FastAPI**, and **MLOps**.  
+- 💬 I love talking about **AI reasoning**, **inference optimization**, and **system design** for large-scale models.  
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+## 🧰 Tech Stack
 
-#### 🔧 Languages
+#### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-#### ⚙️ Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+#### 🧠 AI & ML Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF9900.svg?style=for-the-badge&logo=llama&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-%231E90FF.svg?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-%231E8C3A.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-#### 📚 Tools & Platforms
+#### ⚙️ Backend / DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧩 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Profile Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SultanKarilov&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=sulta24&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
 
-### 💳 Github Profile Summary Card
+### 💳 Profile Summary Card
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SultanKarilov&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulta24&theme=github_dark)
 
 </div>
 
@@ -78,19 +81,19 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SultanKarilov&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sulta24&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 ### 📈 Activity Graph
 
-[![Sultan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SultanKarilov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sultan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulta24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 📊 Most Used Languages
+### 🧮 Most Used Languages
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=SultanKarilov&show_icons=true&locale=en&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=sulta24&show_icons=true&locale=en&layout=compact&theme=radical)
 
 </div>
 
@@ -98,7 +101,20 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SultanKarilov&theme=onedark&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sulta24&theme=onedark&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧠 Featured Project: BachOpus
+
+<div align="center">
+
+🚀 **BachOpus** – An **AI DevOps Agent** that automates infrastructure monitoring, debugging, and workflow orchestration across multiple servers.  
+Integrates with **Datadog**, **FastAPI**, and **LangChain** to enable contextual reasoning and self-healing capabilities.
+
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sulta24/BachOpus)
 
 </div>
 
@@ -114,9 +130,9 @@
 
 ---
 
-<h6 align="center">👇🏻 Some of the open-source & AI projects I’m working on 👇🏻</h6>
+<h6 align="center">🚧 Currently building the next generation of AI-driven DevOps tools 🚧</h6>
 
 ---
 
-Credit: [SultanKarilov](https://github.com/SultanKarilov)  
+Credit: [sulta24](https://github.com/sulta24)  
 Last Edited on: 27/10/2025

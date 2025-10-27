@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sulta24&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
-
 ### 💳 Profile Summary Card
 
 <div align="center">
@@ -123,9 +114,9 @@ Integrates with **Datadog**, **FastAPI**, and **LangChain** to enable contextual
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:sultan.karilov@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sultankarilov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/sultan_karilov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:sultankarilov2409@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sultan-karilov-a9abb1362/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/Sula_k24"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
 ---
@@ -135,4 +126,3 @@ Integrates with **Datadog**, **FastAPI**, and **LangChain** to enable contextual
 ---
 
 Credit: [sulta24](https://github.com/sulta24)  
-Last Edited on: 27/10/2025

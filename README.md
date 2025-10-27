@@ -88,14 +88,6 @@
 
 </div>
 
-### 🏆 Profile Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sulta24&theme=onedark&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🧠 Featured Project: BachOpus

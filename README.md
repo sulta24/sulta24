@@ -88,18 +88,6 @@
 
 </div>
 
----
-
-## 🧠 Featured Project: BachOpus
-
-<div align="center">
-
-🚀 **BachOpus** – An **AI DevOps Agent** that automates infrastructure monitoring, debugging, and workflow orchestration across multiple servers.  
-Integrates with **Datadog**, **FastAPI**, and **LangChain** to enable contextual reasoning and self-healing capabilities.
-
-[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sulta24/BachOpus)
-
-</div>
 
 ---
 

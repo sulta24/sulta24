@@ -82,8 +82,7 @@
 
 ---
 
-<h6 align="center">🚧 Currently building the next generation of AI-driven tools 🚧</h6>
+<h4 align="center">Currently building the next generation of AI-driven tools </h4>
 
 ---
 
-Credit: [sulta24](https://github.com/sulta24)  

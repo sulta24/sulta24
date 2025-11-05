@@ -82,7 +82,7 @@
 
 ---
 
-<h6 align="center">🚧 Currently building the next generation of AI-driven DevOps tools 🚧</h6>
+<h6 align="center">🚧 Currently building the next generation of AI-driven tools 🚧</h6>
 
 ---
 

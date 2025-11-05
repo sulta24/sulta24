@@ -69,18 +69,6 @@
 </div>
 
 
-### 📈 Activity Graph
-
-[![Sultan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulta24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🧮 Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sulta24&show_icons=true&locale=en&layout=compact&theme=radical)
-
-</div>
-
 
 ---
 

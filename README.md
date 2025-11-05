@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### 🧠 AI & ML Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)

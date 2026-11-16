@@ -18,7 +18,6 @@
 ---
 
 - 🧠 AI Engineer & DevOps enthusiast building **intelligent systems that manage infrastructure automatically**.  
-- ⚙️ Currently working at **BachOpus**, creating a **DevOps AI agent** that integrates with monitoring tools like Datadog and manages multi-agent workflows.  
 - 🎯 Interested in **LLM-based agents**, **autonomous system orchestration**, and **scalable cloud AI deployments**.  
 - 🌱 Deepening expertise in **LangChain**, **LlamaIndex**, **FastAPI**, and **MLOps**.  
 - 💬 I love talking about **AI reasoning**, **inference optimization**, and **system design** for large-scale models.  

@@ -15,14 +15,6 @@
   <a href="https://github.com/sulta24" align="center"><img align="center" alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=sulta24.sulta24"></a>
 </p>
 
----
-
-- 🧠 AI Engineer & DevOps enthusiast building **intelligent systems that manage infrastructure automatically**.  
-- 🎯 Interested in **LLM-based agents**, **autonomous system orchestration**, and **scalable cloud AI deployments**.  
-- 🌱 Deepening expertise in **LangChain**, **LlamaIndex**, **FastAPI**, and **MLOps**.  
-- 💬 I love talking about **AI reasoning**, **inference optimization**, and **system design** for large-scale models.  
-
----
 
 ## 🧰 Tech Stack
 

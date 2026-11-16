@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Developer;Building%20AI%20Agents%20and%20Systems;DevOps%20Automation%20with%20AI;Always%20experimenting%20and%20learning%20🚀&font=Fira%20Code&center=true&width=520&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Developer;Building%20Automation%20with%20AI;Always%20experimenting%20and%20learning%20🚀&font=Fira%20Code&center=true&width=520&height=45"></a>
 </p>
 
 <p align="center">
